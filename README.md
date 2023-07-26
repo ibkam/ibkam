@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibkam
 - 👀 I’m interested in becoming A full stack SOE developer
-- 🌱 I’m currently learning C language programming
+- 🌱 I’m currently enrolled in ALX Software Engineering Program.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ibrahimkamau254@gmail.com
 
