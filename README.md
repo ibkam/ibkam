@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibkam
+- 👋 Hi there! I'm Ibrahim Kamau a passionate beginner software engineer eager to learn and grow in the world of coding.
 - 👀 I’m interested in becoming A full stack SOE developer
 - 🌱 I’m currently enrolled in ALX Software Engineering Program.
 - 💞️ I’m looking to collaborate on projects.
